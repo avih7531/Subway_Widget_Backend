@@ -1,5 +1,9 @@
 # Project: Nearest Train Station Finder
 
+## Widget Pictures
+![Subway Widget View](widget_pictures/2024-08-16_14-31-13.png)
+![Closest Stations View](widget_pictures/2024-08-16_14-31-20.png)
+
 ## Overview
 This project is a command-line tool that helps you find the nearest train station to your current location, the next train times, and the closest stations to the nearest station. It uses the Google Maps API for geolocation and various JSON files for station and route data. I (Avi Herman) use it to feed data to a Wayland widgets for Arch Linux which displays train times and station information.
 
