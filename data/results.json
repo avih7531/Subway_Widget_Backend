@@ -1,0 +1,156 @@
+{
+    "station_name": {
+        "81 St - Museum of Natural History": {
+            "C": {
+                "North-Bound": [
+                    "14:31",
+                    "14:38",
+                    "14:44"
+                ],
+                "South-Bound": [
+                    "14:32",
+                    "14:42",
+                    "14:51"
+                ]
+            },
+            "B": {
+                "North-Bound": [
+                    "14:28",
+                    "14:34",
+                    "15:04"
+                ],
+                "South-Bound": [
+                    "14:33",
+                    "14:35",
+                    "14:44"
+                ]
+            }
+        }
+    },
+    "4_other_closest_stations": {
+        "86 St": {
+            "station_id": "A20",
+            "synonymous_station_ids": [
+                "A20"
+            ],
+            "routes": [
+                "C",
+                "B"
+            ],
+            "distance_in_miles": 0.35
+        },
+        "79 St": {
+            "station_id": "122",
+            "synonymous_station_ids": [
+                "122"
+            ],
+            "routes": [
+                "1"
+            ],
+            "distance_in_miles": 0.44
+        },
+        "72 St": {
+            "station_id": "A22",
+            "synonymous_station_ids": [
+                "A22"
+            ],
+            "routes": [
+                "C",
+                "B"
+            ],
+            "distance_in_miles": 0.46
+        },
+        "72 St\u00a0": {
+            "station_id": "123",
+            "synonymous_station_ids": [
+                "123"
+            ],
+            "routes": [
+                "1",
+                "2",
+                "3"
+            ],
+            "distance_in_miles": 0.55
+        },
+        "66 St": {
+            "station_id": "124",
+            "synonymous_station_ids": [
+                "124"
+            ],
+            "routes": [
+                "1"
+            ],
+            "distance_in_miles": 0.76
+        },
+        "96 St": {
+            "station_id": "A19",
+            "synonymous_station_ids": [
+                "A19"
+            ],
+            "routes": [
+                "C",
+                "B"
+            ],
+            "distance_in_miles": 0.81
+        },
+        "77 St": {
+            "station_id": "627",
+            "synonymous_station_ids": [
+                "627"
+            ],
+            "routes": [
+                "6"
+            ],
+            "distance_in_miles": 0.84
+        },
+        "96 St\u00a0": {
+            "station_id": "120",
+            "synonymous_station_ids": [
+                "120"
+            ],
+            "routes": [
+                "1",
+                "2",
+                "3"
+            ],
+            "distance_in_miles": 0.86
+        },
+        "86 St\u00a0": {
+            "station_id": "626",
+            "synonymous_station_ids": [
+                "626"
+            ],
+            "routes": [
+                "4",
+                "5",
+                "6"
+            ],
+            "distance_in_miles": 0.88
+        },
+        "68 St": {
+            "station_id": "628",
+            "synonymous_station_ids": [
+                "628"
+            ],
+            "routes": [
+                "6"
+            ],
+            "distance_in_miles": 1.02
+        },
+        "59 St": {
+            "station_id": "A24",
+            "synonymous_station_ids": [
+                "125",
+                "A24"
+            ],
+            "routes": [
+                "1",
+                "A",
+                "C",
+                "B",
+                "D"
+            ],
+            "distance_in_miles": 1.04
+        }
+    }
+}
